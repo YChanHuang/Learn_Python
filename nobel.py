@@ -6,4 +6,5 @@ import numpy as np
 # read historical nobel winner data
 nobel = pd.read_csv('nobel_archive.csv')
 
-print(nobel)
+#read the 
+nobel.head(6)
